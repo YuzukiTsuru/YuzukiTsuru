@@ -7,5 +7,5 @@ Hi There 👋! YuzukiTsuru is here (*´∀｀)
 - ⚡ Fun fact: 
   - [x] Autistic Spectrum Disorder
   - [x] Attention Deficit and Hyperactivity Disorder
-  - [x] Major Depressive Disorder
+  - [x] Depressive Disorder
 - 📊 Website [GloomyGhost.com](http://gloomyghost.com/)
