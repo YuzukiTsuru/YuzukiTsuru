@@ -5,7 +5,7 @@ Hi There 👋! YuzukiTsuru is here (*´∀｀)
 - 👯 I’m looking to collaborate on `Battary, Electronic tube, CPUs`
 - 🌏 Available languages for me `中文, 日本語, English, Dov Tinvaak`
 - ⚡ Fun fact: 
-  - [x] Autism
-  - [x] ADHD
-  - [x] MDD
+  - [x] Autistic Spectrum Disorder
+  - [x] Attention Deficit and Hyperactivity Disorder
+  - [x] Major Depressive Disorder
 - 📊 Website [GloomyGhost.com](http://gloomyghost.com/)
