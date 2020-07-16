@@ -1,6 +1,4 @@
-**YuzukiTsuru/YuzukiTsuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi There 👋! YuzukiTsuru is here (*´∀｀) 
 
 - 🔭 I’m currently working on [[World.JS]](https://github.com/YuzukiTsuru/World.JS), [[lessampler]](https://github.com/YuzukiTsuru/lessampler), some IOT stuff in @UMUISM.
 - 🌱 I’m currently learning `C++, Haskell, TypeScript, Mathmatic, Psychology, Web Develop, IOT`
@@ -10,3 +8,4 @@ Here are some ideas to get you started:
   - [x] Autism
   - [x] ADHD
   - [x] MDD
+- 📊 Website [GloomyGhost.com](http://gloomyghost.com/)
