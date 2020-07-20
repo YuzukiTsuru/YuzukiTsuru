@@ -1,20 +1,17 @@
 Hi There 👋! YuzukiTsuru is here (*´∀｀) 
 
-<style>
+<script>
+  document.getElementById(dova).style.property = "font-family: 'dov'"
   @font-face{
     font-family: 'dov'; 
     src:url('static/dragon_alphabet.ttf') format('truetype');
   }
-  
-  .dov{
-    font-family: 'dov';
-  }
-</style>
+</script>
 
 - 🔭 I’m currently working on [[World.JS]](https://github.com/YuzukiTsuru/World.JS), [[lessampler]](https://github.com/YuzukiTsuru/lessampler), some IOT stuff in @UMUISM.
 - 🌱 I’m currently learning `Rust, C++, Haskell, TypeScript, Mathmatic, Psychology, Web Develop, IOT, FPGA`
 - 👯 I’m looking to collaborate on `Battary, Electronic tube, CPUs`
-- 🌏 Available languages for me <code>中文, 日本語, English, <b class="dov">Dov Tinvaak</b></code>
+- 🌏 Available languages for me <code>中文, 日本語, English, <b id="dova">Dov Tinvaak</b></code>
 - ⚡ Fun fact: 
   - [x] Autistic Spectrum Disorder
   - [x] Attention Deficit and Hyperactivity Disorder
