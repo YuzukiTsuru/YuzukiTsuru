@@ -1,6 +1,5 @@
-Hi There 👋! YuzukiTsuru is here (*´∀｀) 
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuzukiTsuru&show_icons=true"/>
+Hi There 👋! YuzukiTsuru is here (*´∀｀) 
 
 - 🔭 I’m currently working on [[World.JS]](https://github.com/YuzukiTsuru/World.JS), [[lessampler]](https://github.com/YuzukiTsuru/lessampler), some IOT stuff in @UMUISM.
 - 🌱 I’m currently learning `Rust, C++, Haskell, TypeScript, Mathmatic, Psychology, Web Develop, IOT, FPGA`
