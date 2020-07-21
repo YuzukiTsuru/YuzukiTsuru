@@ -10,6 +10,8 @@ Hi There 👋! YuzukiTsuru is here (*´∀｀)
   - [x] Depressive Disorder
 - 📊 Website [GloomyGhost.com](http://gloomyghost.com/)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YuzukiTsuru&show_icons=true&theme=radical"/>
+
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com)
@@ -18,8 +20,3 @@ Hi There 👋! YuzukiTsuru is here (*´∀｀)
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
