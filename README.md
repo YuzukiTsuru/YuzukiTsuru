@@ -1,5 +1,7 @@
 Hi There 👋! YuzukiTsuru is here (*´∀｀) 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuzukiTsuru&show_icons=true"/>
+
 - 🔭 I’m currently working on [[World.JS]](https://github.com/YuzukiTsuru/World.JS), [[lessampler]](https://github.com/YuzukiTsuru/lessampler), some IOT stuff in @UMUISM.
 - 🌱 I’m currently learning `Rust, C++, Haskell, TypeScript, Mathmatic, Psychology, Web Develop, IOT, FPGA`
 - 👯 I’m looking to collaborate on `Battary, Electronic tube, CPUs`
@@ -10,7 +12,7 @@ Hi There 👋! YuzukiTsuru is here (*´∀｀)
   - [x] Depressive Disorder
 - 📊 Website [GloomyGhost.com](http://gloomyghost.com/)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YuzukiTsuru&show_icons=true&theme=radical"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YuzukiTsuru&show_icons=true"/>
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
