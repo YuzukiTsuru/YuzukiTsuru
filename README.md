@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuzukiTsuru&show_icons=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuzukiTsuru&show_icons=true&hide=c"/>
 Hi There 👋! YuzukiTsuru is here (*´∀｀) 
 
 - 🔭 I’m currently working on [[World.JS]](https://github.com/YuzukiTsuru/World.JS), [[lessampler]](https://github.com/YuzukiTsuru/lessampler), some IOT stuff in [@UMUISM](https://github.com/UMUISM) and [@GloomyGrave](https://github.com/GloomyGrave) for the `Archive`
