@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuzukiTsuru&show_icons=true&hide=c&theme=vue"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuzukiTsuru&show_icons=true&hide=c&theme=vue-dark"/>
 Hi There 👋! YuzukiTsuru is here (*´∀｀) 
 
 - 🔭 I’m currently working on [[World.JS]](https://github.com/YuzukiTsuru/World.JS), [[lessampler]](https://github.com/YuzukiTsuru/lessampler), some IOT stuff in [@UMUISM](https://github.com/UMUISM) and [@GloomyGrave](https://github.com/GloomyGrave) for the `Archive`
@@ -11,7 +11,7 @@ Hi There 👋! YuzukiTsuru is here (*´∀｀)
   - [x] Depressive Disorder
 - 📊 Website [GloomyGhost.com](http://gloomyghost.com/)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YuzukiTsuru&show_icons=true&theme=vue"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YuzukiTsuru&show_icons=true&theme=vue-dark"/>
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
