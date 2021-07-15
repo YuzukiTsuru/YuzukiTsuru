@@ -1,8 +1,12 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuzukiTsuru&show_icons=true&hide=c&theme=vue-dark"/>
 Hi There 👋! (柚木鉉) YuzukiTsuru is here (*´∀｀) 
 
-- 🔭 I’m currently working on [[World.JS]](https://github.com/YuzukiTsuru/World.JS), [[lessampler]](https://github.com/YuzukiTsuru/lessampler), some IOT or embed stuff in [@UMUISM](https://github.com/UMUISM) and [@GloomyGrave](https://github.com/GloomyGrave) for the `Archive`
-- 🌱 I’m currently learning `C++, Haskell, TypeScript, Mathmatic, Psychology, Web Develop, IOT, emBed, FPGA`
+- 🔭 I’m currently working on [[World.JS]](https://github.com/YuzukiTsuru/World.JS), [[lessampler]](https://github.com/YuzukiTsuru/lessampler)
+- 👀 My subrepositories
+  - Small tools [@UMUISM](https://github.com/UMUISM) 
+  - Some IOT or embed stuff in [@YuzukiHD](https://github.com/YuzukiHD) 
+  - Archive and disconnected repository will tranfer to [@GloomyGrave](https://github.com/GloomyGrave)
+- 🌱 I’m currently learning `C++, Haskell, TypeScript, Mathmatic, Psychology, Web Develop, IOT, embed, FPGA`
 - 🌏 Available languages for me `中文, 日本語, English, Dov Tinvaak`
 - ⚡ Fun fact: 
   - [x] Autistic Spectrum Disorder
