@@ -11,7 +11,6 @@ Hi There 👋! (柚木鉉) YuzukiTsuru is here (*´∀｀)
 - ⚡ Fun fact: 
   - [x] Autistic Spectrum Disorder
   - [x] Attention Deficit and Hyperactivity Disorder
-  - [x] Depressive Disorder
 - 📊 Website [GloomyGhost.com](http://gloomyghost.com/)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=YuzukiTsuru&show_icons=true&theme=vue-dark"/>
