@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuzukiTsuru&show_icons=true&hide=c&theme=vue-dark"/>
-Hi There 👋! (柚木鉉) YuzukiTsuru is here (*´∀｀) 
+Hi There 👋! 柚木鉉 YuzukiTsuru is here (*´∀｀) 
 
 - 🔭 I’m currently working on [[@YuzukiHD]](https://github.com/YuzukiHD)  [[World.JS]](https://github.com/YuzukiTsuru/World.JS), [[lessampler]](https://github.com/YuzukiTsuru/lessampler)
 - 👀 My subrepositories
