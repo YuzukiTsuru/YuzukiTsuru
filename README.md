@@ -6,8 +6,8 @@ Hi There 👋! 柚木鉉 YuzukiTsuru is here (*´∀｀)
   - Small tools [@UMUISM](https://github.com/UMUISM) 
   - Some IoT and Hardware design stuff in [@YuzukiHD](https://github.com/YuzukiHD) 
   - Archive and disconnected repository will tranfer to [@GloomyGrave](https://github.com/GloomyGrave)
-- 🌱 I’m currently learning `C++, Haskell, TypeScript, Mathmatic, Psychology, Web Develop, IoT, embed, FPGA`
-- 🌏 Available languages for me `中文, 日本語, English, Dov Tinvaak`
+- 🌱 I’m currently learning `C++, Web, IoT, embed, FPGA`
+- 🌏 Available languages for me `中文, 日本語, English`
 - ⚡ Fun fact: 
   - [x] Autistic Spectrum Disorder
   - [x] Attention Deficit and Hyperactivity Disorder
