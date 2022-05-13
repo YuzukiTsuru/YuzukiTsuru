@@ -3,9 +3,10 @@ Hi There 👋! 柚木鉉 YuzukiTsuru is here (*´∀｀)
 
 - 🔭 I’m currently working on [[@YuzukiHD]](https://github.com/YuzukiHD), [[World.JS]](https://github.com/YuzukiTsuru/World.JS), [[lessampler]](https://github.com/YuzukiTsuru/lessampler)
 - 👀 My subrepositories
-  - Small tools [@UMUISM](https://github.com/UMUISM) 
+  - Small tools at [@UMUISM](https://github.com/UMUISM) 
   - Some IoT and Hardware design stuff in [@YuzukiHD](https://github.com/YuzukiHD) 
   - Archive and disconnected repository will tranfer to [@GloomyGrave](https://github.com/GloomyGrave)
+  - Open Source Hardware [OSHWHub(Chinese)](https://oshwhub.com/gloomyghost)
 - 🌏 Available languages for me `中文, 日本語, English`
 - ⚡ Fun fact: 
   - [x] Autistic Spectrum Disorder
