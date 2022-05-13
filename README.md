@@ -16,13 +16,34 @@ Hi There 👋! 柚木鉉 YuzukiTsuru is here (*´∀｀)
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
-<br/>
-<br/>
-<br/>
+
+<p align="center">
+   <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg" alt="cpp" width="40" height="40"/>
+   </a>
+   <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
+   </a>
+   <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="Python" width="40" height="40"/>
+   </a>
+   <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/c-sharp.svg" alt="csharp" width="40" height="40"/>
+   </a>
+   <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/assembly.svg" alt="nodejs" width="40" height="40"/>
+   </a>
+   <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/clion.svg" alt="clion" width="40" height="40"/>
+   </a>
+   <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/archlinux.svg" alt="archlinux" width="40" height="40"/>
+   </a>
+</p>
+<br>
+
 [![YuzukiTsuru's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuzukiTsuru&theme=github)](https://github.com/YuzukiTsuru)
