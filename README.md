@@ -23,3 +23,8 @@ Hi There 👋! 柚木鉉 YuzukiTsuru is here (*´∀｀)
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
+<br/>
+<br/>
+<br/>
+<br/>
+[![YuzukiTsuru's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuzukiTsuru&theme=github)](https://github.com/YuzukiTsuru)
