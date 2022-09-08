@@ -1,5 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuzukiTsuru&hide=c&show_icons=true&theme=vue-dark"/>
-Hi There 👋! 柚木鉉 YuzukiTsuru is here (*´∀｀) 
+Hi There 👋! 柚木鉉 YuzukiTsuru is here (*´∀｀)
 
 - 🔭 I’m currently working on [[@YuzukiHD]](https://github.com/YuzukiHD), [[World.JS]](https://github.com/YuzukiTsuru/World.JS), [[lessampler]](https://github.com/YuzukiTsuru/lessampler)
 - 👀 My subrepositories
@@ -19,6 +19,7 @@ Hi There 👋! 柚木鉉 YuzukiTsuru is here (*´∀｀)
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com)
+<img src="https://komarev.com/ghpvc/?username=YuzukiTsuru&color=009688&style=for-the-badge" alt="archlinux" width="170" height="36"/>
 
 <p align="center">
    <a href="#">
