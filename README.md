@@ -13,7 +13,7 @@ Hi There 👋! 柚木鉉 YuzukiTsuru is here (*´∀｀)
   - [x] Attention Deficit and Hyperactivity Disorder
 - 📊 Website [GloomyGhost.com](http://gloomyghost.com/)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YuzukiTsuru&show_icons=true&theme=vue-dark"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YuzukiTsuru&show_icons=true&theme=vue-dark&count_private=true"/>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/contains-cat-gifs.svg)](https://forthebadge.com)
