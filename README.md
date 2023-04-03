@@ -46,4 +46,4 @@ Hi There 👋! 柚木鉉 YuzukiTsuru is here (*´∀｀)
 </p>
 <br>
 
-<!--[![YuzukiTsuru's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuzukiTsuru&theme=github)](https://github.com/YuzukiTsuru)-->
+[![YuzukiTsuru's github activity graph](https://activity-graph.herokuapp.com/graph?username=YuzukiTsuru&theme=github)](https://github.com/YuzukiTsuru)
