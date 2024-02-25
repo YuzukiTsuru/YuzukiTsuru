@@ -8,9 +8,6 @@ Hi There 👋! 柚木鉉 YuzukiTsuru is here (*´∀｀)
   - Archive and disconnected repository will tranfer to [@GloomyGrave](https://github.com/GloomyGrave)
   - Open Source Hardware [OSHWHub(Chinese)](https://oshwhub.com/gloomyghost)
 - 🌏 Available languages for me `中文, 日本語, English`
-- ⚡ Fun fact: 
-  - [x] Autistic Spectrum Disorder
-  - [x] Attention Deficit and Hyperactivity Disorder
 - 📊 Website [GloomyGhost.com](http://gloomyghost.com/)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=YuzukiTsuru&show_icons=true&theme=vue-dark&count_private=true"/>
