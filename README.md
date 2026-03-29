@@ -11,8 +11,6 @@ Hi There 👋! 柚木鉉 YuzukiTsuru is here (*´∀｀)
 - 🌏 Available languages for me `中文, 日本語, English`
 - 📊 Website [GloomyGhost.com](http://gloomyghost.com/)
 
-<br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuzukiTsuru/YuzukiTsuru/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuzukiTsuru/YuzukiTsuru/output/github-contribution-grid-snake.svg">
